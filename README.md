@@ -21,10 +21,13 @@ Well, you can download, install, edit and run **PhilBrasil** wherever and whenev
 
 > **Prerequesites:**
 
-> - Ruby
+> - Ruby >= 2.2.2
 > - Rails
 > - Git
 > - PostgreSQL (you can change it if you want, but will need to search other place for it)
+> - Bundler (gem install bundler)[^1]
+
+[^1]: Maybe you need to update PATH or the gem executables will not run. Add `export PATH="$PATH:$HOME/.gem/ruby/2.3.0/bin"` to your .bashrc or .zshrc, before you install the bundles.
 
 ```shell
 git clone https://github.com/cgregoreki/philbrasil
