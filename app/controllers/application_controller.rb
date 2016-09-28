@@ -3,4 +3,18 @@ class ApplicationController < ActionController::Base
 
   def index
   end
+
+  def updates
+  end
+
+  def not_found
+  	raise ActionController::RoutingError.new('Not Found')
+  end
+
+  def colabore
+  end
+
+  def sobre
+  end
+
 end
