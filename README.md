@@ -29,6 +29,7 @@ Well, you can download, install, edit and run **PhilBrasil** wherever and whenev
 ```shell
 git clone https://github.com/cgregoreki/philbrasil
 cd philbrasil/
+bundle install
 rails s
 ```
 The last line serves to initialize the local server on your machine. Then, to test it, open a browser and visit `localhost:3000`
