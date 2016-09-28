@@ -26,6 +26,7 @@ Well, you can download, install, edit and run **PhilBrasil** wherever and whenev
 > - Git
 > - PostgreSQL (you can change it if you want, but will need to search other place for it)
 > - Bundler (gem install bundler) <sup>1</sup>
+> - Nodejs
 
 
 ```shell
