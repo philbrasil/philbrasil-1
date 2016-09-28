@@ -1,24 +1,37 @@
-# README
+PhilBrasil
+===================
+"Have you taken a prudence pill?" - Olegario, Gilson
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+**PhilBrasil** is a web project aimed to index/list links to portuguese (Portugal and Brazil) based philosophical papers, articles, texts, paragraphs, and other related material.
 
-Things you may want to cover:
+----
 
-* Ruby version
 
-* System dependencies
+Rails and Philosophy
+------
+Rails has an important position on how the web based projects have being made in the last 10 years. It's philosophy contains the agile development way of working and thinking. 
 
-* Configuration
+Because of these, aiming to be simple enough to understand and maintain, **PhilBrasil** is built upon this rock.
 
-* Database creation
+------
 
-* Database initialization
+Download, Install, etc
+-----
+Well, you can download, install, edit and run **PhilBrasil** wherever and whenever you want. The following commands are supposed to work fine with linux.
 
-* How to run the test suite
+> **Prerequesites:**
 
-* Services (job queues, cache servers, search engines, etc.)
+> - Ruby
+> - Rails
+> - Git
+> - PostgreSQL (you can change it if you want, but will need to search other place for it)
 
-* Deployment instructions
+```shell
+git clone https://github.com/cgregoreki/philbrasil
+cd philbrasil/
+rails s
+```
+The last line serves to initialize the local server on your machine. Then, to test it, open a browser and visit `localhost:3000`
 
-* ...
+
+
