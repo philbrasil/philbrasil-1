@@ -2,7 +2,7 @@ PhilBrasil
 ===================
 "Have you taken a prudence pill?" - Olegario, Gilson
 
-**PhilBrasil** is a web project aimed to index/list links to portuguese (Portugal and Brazil) based philosophical papers, articles, texts, paragraphs, and other related material.
+**PhilBrasil** is a web project aimed to index/list links to portuguese based philosophical papers, articles, texts, paragraphs, and other related material.
 
 ----
 
